@@ -1,0 +1,100 @@
+CS105 F23 Mini-project Responses
+Timestamp,What class are you filling out this survey for? Select all that apply.,What is your current class standing?,What is your gender?,How many languages do you know? ,Have you completed any internships?,What is your GPA?,What is your major?,What is your favorite area of Computer Science?,"How many hours, on average, do you spend per day on campus (including both academic and non-academic activities)?","How often do you participate in class (e.g., answering questions or asking questions)?",How do you perceive your overall performance in math and science courses?,How well do you rate your time management skills when it comes to organizing your academic tasks?,How often do you use ChatGPT or similar tools to complete homework?,"Do you find yourself using AI (e.g., ChatGPT) more to complete homework assignments on a time-crunch?",What's your most commonly used language?,What CS-related field do you prefer?,What is your least favorite part of Computer Science?
+11/3/2023 15:26:42,CS105,Senior,Male,2,No,3.0-3.5,CS,Software Development,3-5hrs,Rarely,4,4,Rarely (few assignments),No,Python,Hardware/Embedded Systems,Game Development
+11/3/2023 15:30:11,CS105,Junior,Male,2,No,3.0-3.5,DS,Machine Learning,3-5hrs,Sometimes,3,3,Rarely (few assignments),No,,,
+11/3/2023 15:31:28,CS105,Senior,Female,3,No,3.5-4.0,PHYC,idk,6-8hrs,Rarely,4,4,Sometimes (some assignments),Yes,Python,Artificial Intelligence/Machine Learning,Hardware/Embedded Systems
+11/3/2023 15:31:45,CS105,Junior,Male,2,No,3.5-4.0,CS,Software Development,6-8hrs,Sometimes,4,3,Never (no AI tools are used on my homework),No,C++,Game Development,Artificial Intelligence/Machine Learning
+11/3/2023 15:32:06,CS111,Senior,Male,4,Yes,2.5-3.0,TELE SYS,Networks and data,3-5hrs,Sometimes,5,5,Sometimes (some assignments),Yes,,,
+11/3/2023 15:37:52,CS105,Freshman,Male,1,No,3.5-4.0,DS,Software Engineering,9+hrs,Sometimes,4,3,Sometimes (some assignments),Yes,,,
+11/3/2023 15:39:25,CS105,Graduate,Female,2,No,3.5-4.0,CS,Software enginering,6-8hrs,Often,4,3,Never (no AI tools are used on my homework),No,,,
+11/3/2023 15:40:22,CS105,Sophomore,Female,2,,3.0-3.5,DS,code works and runs without bugs,3-5hrs,Rarely,3,2,Rarely (few assignments),No,,,
+11/3/2023 15:41:05,CS105,Graduate,Male,4,Yes,3.5-4.0,CS,Data Science,<2hrs,Rarely,4,4,Sometimes (some assignments),No,Python,Data Science,Hardware/Embedded Systems
+11/3/2023 15:45:18,CS105,Senior,Male,2,No,2.5-3.0,DS,Artificial Intelligence,9+hrs,Never,3,3,Never (no AI tools are used on my homework),No,Python,Artificial Intelligence/Machine Learning,Data Science
+11/3/2023 15:46:21,CS105,Senior,Male,2,Yes,3.0-3.5,BIOCHEM,Data Science,3-5hrs,Rarely,3,3,Sometimes (some assignments),Yes,,,
+11/3/2023 15:49:39,CS105,Senior,Male,1,No,3.0-3.5,CS,Don't have one,6-8hrs,Rarely,3,3,Often (most assignments),No,R,Data Science,Hardware/Embedded Systems
+11/3/2023 15:52:59,CS105,Senior,Male,2,No,3.0-3.5,CS,coding itself,3-5hrs,Rarely,4,2,Rarely (few assignments),No,Python,Data Science,Artificial Intelligence/Machine Learning
+11/3/2023 15:54:31,"CS105, CS141",Junior,Female,2,Yes,3.5-4.0,CS,Computer networks,6-8hrs,Often,5,4,Never (no AI tools are used on my homework),No,C++,Artificial Intelligence/Machine Learning,Hardware/Embedded Systems
+11/3/2023 15:57:31,CS105,Senior,Male,2,No,3.5-4.0,CSBA,Data Structures,6-8hrs,More than most,5,4,Rarely (few assignments),No,C++,Data Science,Data Science
+11/3/2023 15:58:41,CS105,Sophomore,Male,2,No,3.0-3.5,DS,GameDev/Audio,3-5hrs,Sometimes,3,4,Rarely (few assignments),No,Java,Game Development,Artificial Intelligence/Machine Learning
+11/3/2023 15:59:20,CS105,Senior,Female,1,Yes,3.5-4.0,BISS,None,6-8hrs,Never,4,4,Sometimes (some assignments),No,Python,Data Science,Data Science
+11/3/2023 16:02:06,CS141,Senior,Male,2,No,2.5-3.0,DS,"Software engineering, Data Analysis",6-8hrs,Sometimes,3,2,Never (no AI tools are used on my homework),No,Python,Artificial Intelligence/Machine Learning,Hardware/Embedded Systems
+11/3/2023 16:04:11,CS105,Graduate,Male,3,Yes,3.0-3.5,CS,"Nothing, I just want the money",<2hrs,Rarely,4,3,Sometimes (some assignments),Yes,Python,Artificial Intelligence/Machine Learning,Hardware/Embedded Systems
+11/3/2023 16:23:15,CS111,Junior,Male,1,No,3.5-4.0,CS,The highest-paying one,3-5hrs,Never,5,2,Rarely (few assignments),No,C++,Artificial Intelligence/Machine Learning,Hardware/Embedded Systems
+11/3/2023 16:31:58,CS105,Graduate,Male,3,No,3.0-3.5,CS,Data Science and Machine Learning,3-5hrs,Rarely,4,5,Never (no AI tools are used on my homework),No,Python,Data Science,Hardware/Embedded Systems
+11/3/2023 16:36:27,"CS105, CS141",Junior,Male,1,No,3.0-3.5,CS,Software development,9+hrs,Rarely,4,3,Rarely (few assignments),Yes,C++,Game Development,Hardware/Embedded Systems
+11/3/2023 16:37:14,CS141,Senior,Female,3,No,3.0-3.5,DS,,6-8hrs,Rarely,3,5,Rarely (few assignments),Yes,R,Data Science,Game Development
+11/3/2023 16:41:16,CS105,Junior,Male,2,Yes,3.5-4.0,CS,AI/ML,9+hrs,Rarely,4,3,Sometimes (some assignments),No,C++,Artificial Intelligence/Machine Learning,Debugging
+11/3/2023 16:54:27,CS111,Junior,Female,4,No,3.5-4.0,CS,AI/Cybersecurity,6-8hrs,Rarely,4,3,Never (no AI tools are used on my homework),No,C++,Artificial Intelligence/Machine Learning,Hardware/Embedded Systems
+11/3/2023 17:01:31,CS141,Senior,Non-Binary,1,No,3.5-4.0,DS,Bioinformatics,3-5hrs,Rarely,4,1,Rarely (few assignments),Yes,Python,Data Science,Algorithms
+11/3/2023 17:02:17,CS105,Sophomore,Male,2,No,3.5-4.0,DS,Artificial Intelligence,3-5hrs,Sometimes,4,3,Never (no AI tools are used on my homework),No,C++,Artificial Intelligence/Machine Learning,Hardware/Embedded Systems
+11/3/2023 17:02:59,CS105,Sophomore,Male,3,No,3.0-3.5,CS,Web development ,3-5hrs,Often,3,3,Sometimes (some assignments),Yes,,,
+11/3/2023 17:09:05,CS105,Junior,Male,2,No,3.5-4.0,CS,Low Level Languages and Algorithms,6-8hrs,Never,4,3,Never (no AI tools are used on my homework),No,C++,Hardware/Embedded Systems,Data Science
+11/3/2023 17:11:02,CS105,Senior,Male,2,No,3.0-3.5,CSE,Design,3-5hrs,Sometimes,4,3,Rarely (few assignments),No,Python,Hardware/Embedded Systems,Data Science
+11/3/2023 17:16:12,CS141,Senior,Female,3,Yes,3.0-3.5,CS,,9+hrs,Never,5,2,Sometimes (some assignments),Yes,C++,Artificial Intelligence/Machine Learning,Hardware/Embedded Systems
+11/3/2023 17:26:55,CS141,Senior,Male,1,No,3.0-3.5,CSE,Embedded Systems,3-5hrs,Sometimes,3,4,Rarely (few assignments),No,C++,Hardware/Embedded Systems,Data Science
+11/3/2023 17:32:23,CS105,Junior,Male,3,No,3.5-4.0,CS,Video game creation,3-5hrs,Rarely,3,5,Never (no AI tools are used on my homework),Yes,C++,Hardware/Embedded Systems,Artificial Intelligence/Machine Learning
+11/3/2023 17:50:18,CS105,Senior,Male,2,No,3.0-3.5,CS,Embedded Systems,9+hrs,Never,3,2,Never (no AI tools are used on my homework),No,Python,Hardware/Embedded Systems,Data Science
+11/3/2023 17:52:41,"CS105, CS111",Junior,Male,3,No,2.5-3.0,DS,Data Analysis,6-8hrs,Sometimes,4,2,Sometimes (some assignments),No,C++,Data Science,Hardware/Embedded Systems
+11/3/2023 17:53:17,CS105,Sophomore,Male,1,No,3.5-4.0,DS,Machine learning and Ai,3-5hrs,Rarely,3,4,Sometimes (some assignments),Yes,Python,Data Science,Hardware/Embedded Systems
+11/3/2023 18:01:13,CS105,Junior,Male,3,No,3.5-4.0,DS,Working with integers and indexing,6-8hrs,Rarely,5,2,Sometimes (some assignments),Yes,Python,No preference,Hardware/Embedded Systems
+11/3/2023 18:16:13,CS105,Senior,Female,1,No,2.5-3.0,DS,,3-5hrs,Sometimes,4,4,Never (no AI tools are used on my homework),No,C++,Data Science,Artificial Intelligence/Machine Learning
+11/3/2023 19:00:47,CS105,Senior,Non-Binary,1,No,3.0-3.5,DS,data science,3-5hrs,Sometimes,2,2,Never (no AI tools are used on my homework),No,R,Data Science,Software Development
+11/3/2023 19:29:24,CS105,Junior,Male,2,No,3.0-3.5,CS,Software Engineering,3-5hrs,Rarely,4,2,Rarely (few assignments),No,Swift,Hardware/Embedded Systems,Data Science
+11/3/2023 20:10:15,CS105,Junior,Male,1,No,3.0-3.5,DS,Coding projects ,3-5hrs,Rarely,3,4,Rarely (few assignments),No,C++,Data Science,Hardware/Embedded Systems
+11/3/2023 20:11:05,CS141,Senior,Male,2,Yes,2.5-3.0,CSBA,ML and AI,3-5hrs,Rarely,2,2,Often (most assignments),Yes,Python,Artificial Intelligence/Machine Learning,Hardware/Embedded Systems
+11/3/2023 20:47:54,CS105,Graduate,Male,2,Yes,3.5-4.0,DS,Machine Learning,3-5hrs,Rarely,4,4,Often (most assignments),Yes,R,Data Science,Hardware/Embedded Systems
+11/3/2023 21:14:59,CS111,Senior,Female,2,No,3.0-3.5,DS,,3-5hrs,Sometimes,3,1,Never (no AI tools are used on my homework),No,C++,Game Development,Hardware/Embedded Systems
+11/3/2023 21:41:46,CS105,Junior,Female,2,No,3.0-3.5,CSBA,,3-5hrs,Rarely,3,3,Rarely (few assignments),No,C++,Data Science,Hardware/Embedded Systems
+11/3/2023 21:42:49,CS105,Senior,Female,2,Yes,3.5-4.0,CS,AI,9+hrs,Rarely,5,3,Never (no AI tools are used on my homework),No,Python,Artificial Intelligence/Machine Learning,Artificial Intelligence/Machine Learning
+11/3/2023 22:12:07,CS105,Junior,Female,1,No,3.5-4.0,DS,data science and computer programming,6-8hrs,Rarely,4,3,Rarely (few assignments),Yes,C++,Data Science,Hardware/Embedded Systems
+11/4/2023 0:43:21,CS141,Senior,Other,1,No,3.5-4.0,CS,"Networks, Concurrency",9+hrs,Sometimes,3,3,Rarely (few assignments),No,C++,Hardware/Embedded Systems,Game Development
+11/4/2023 0:50:23,"CS105, CS141",Junior,Non-Binary,1,No,3.0-3.5,CS,Not sure,9+hrs,More than most,4,2,Sometimes (some assignments),Yes,Python,Game Development,Hardware/Embedded Systems
+11/4/2023 0:58:20,CS105,Sophomore,Female,2,No,3.5-4.0,DTSE,Programming,3-5hrs,Never,4,2,Sometimes (some assignments),Yes,Python,Artificial Intelligence/Machine Learning,Hardware/Embedded Systems
+11/4/2023 10:55:11,CS141,Junior,Male,1,Yes,3.5-4.0,DS,Machine Learning,6-8hrs,More than most,5,5,Rarely (few assignments),No,Python,Data Science,Hardware/Embedded Systems
+11/4/2023 11:30:37,CS105,Senior,Male,3,No,3.5-4.0,NEURO,AI,6-8hrs,Sometimes,4,3,Rarely (few assignments),Yes,Python,Data Science,Hardware/Embedded Systems
+11/4/2023 12:36:07,CS111,Junior,Female,1,No,3.5-4.0,CSBA,Problem solving,9+hrs,Sometimes,3,3,Never (no AI tools are used on my homework),No,C++,Game Development,Artificial Intelligence/Machine Learning
+11/4/2023 13:02:28,"CS105, CS111",Sophomore,Male,1,No,3.5-4.0,DS,Machine Learning,6-8hrs,Rarely,4,2,Rarely (few assignments),Yes,C++,Data Science,Data Science
+11/4/2023 13:13:06,CS105,Junior,Female,2,,3.5-4.0,DS,ai,6-8hrs,Sometimes,3,3,Never (no AI tools are used on my homework),No,Python,Artificial Intelligence/Machine Learning,Hardware/Embedded Systems
+11/4/2023 15:22:26,CS105,Graduate,Female,1,No,3.5-4.0,CS,AI,3-5hrs,Rarely,4,4,Sometimes (some assignments),No,C++,Artificial Intelligence/Machine Learning,Data Science
+11/4/2023 20:42:58,CS105,Junior,Male,2,,3.0-3.5,CS,ml/cs,3-5hrs,Sometimes,3,4,Sometimes (some assignments),No,C++,Artificial Intelligence/Machine Learning,Hardware/Embedded Systems
+11/4/2023 22:19:50,CS105,Graduate,Male,2,Yes,3.5-4.0,CS,Artificial Intelligence,3-5hrs,Rarely,5,4,Always (all assignments),Yes,Python,Artificial Intelligence/Machine Learning,Hardware/Embedded Systems
+11/5/2023 8:54:27,CS105,Senior,Male,2,Yes,3.5-4.0,CS,Game Development,<2hrs,Never,4,4,Never (no AI tools are used on my homework),No,C#,Game Development,Hardware/Embedded Systems
+11/5/2023 11:38:27,CS105,Senior,Male,1,No,3.0-3.5,CSBA,Data/Databases or Project Management,6-8hrs,Sometimes,3,3,Rarely (few assignments),Yes,C++,Data Science,Artificial Intelligence/Machine Learning
+11/5/2023 13:04:15,CS105,Senior,Male,2,Yes,3.5-4.0,CSBA,Problem Solving,9+hrs,Often,4,4,Sometimes (some assignments),Yes,C++,Data Science,Hardware/Embedded Systems
+11/5/2023 13:14:24,CS105,Junior,Male,3,No,3.5-4.0,DS,,6-8hrs,Rarely,4,2,Rarely (few assignments),Yes,C++,Data Science,Hardware/Embedded Systems
+11/5/2023 13:43:57,CS105,Graduate,Male,3,No,3.0-3.5,CSE,Software Development,3-5hrs,Rarely,4,4,Often (most assignments),Yes,Python,Artificial Intelligence/Machine Learning,Hardware/Embedded Systems
+11/5/2023 14:45:12,CS105,Senior,Male,,No,3.5-4.0,CS,Natural Language Processing,3-5hrs,Rarely,3,1,Rarely (few assignments),Yes,Python,Artificial Intelligence/Machine Learning,Hardware/Embedded Systems
+11/5/2023 16:32:27,CS105,Junior,Female,1,No,3.0-3.5,DS,computer programming ,6-8hrs,Rarely,4,2,Rarely (few assignments),No,C++,Game Development,Artificial Intelligence/Machine Learning
+11/5/2023 21:58:01,CS105,Senior,Male,2,No,2.5-3.0,CSBA,"Logic and problem solving, also the possibility of a creative outlet",6-8hrs,Rarely,2,1,Sometimes (some assignments),Yes,C++,Artificial Intelligence/Machine Learning,Data Science
+11/5/2023 22:18:40,CS105,Senior,Male,2,Yes,3.5-4.0,CS,Software Construction,3-5hrs,Often,5,4,Never (no AI tools are used on my homework),No,,,
+11/6/2023 10:23:39,CS105,Graduate,Female,4,Yes,3.0-3.5,CS,"Data Science, Generative AI",3-5hrs,Never,4,4,Often (most assignments),Yes,Python,Artificial Intelligence/Machine Learning,Hardware/Embedded Systems
+11/6/2023 14:35:01,CS105,Senior,Female,3,No,3.0-3.5,CS,Front-end,6-8hrs,Rarely,4,3,Sometimes (some assignments),Yes,C++,Data Science,Hardware/Embedded Systems
+11/6/2023 15:09:14,CS105,Senior,Male,2,No,3.0-3.5,BIO,Object Oriented Programming,3-5hrs,Sometimes,4,4,Sometimes (some assignments),Yes,C++,Data Science,Hardware/Embedded Systems
+11/6/2023 18:23:09,CS105,Graduate,Male,3,No,3.5-4.0,CS,Machine Learning,<2hrs,Never,5,3,Often (most assignments),Yes,Python,Artificial Intelligence/Machine Learning,Hardware/Embedded Systems
+11/6/2023 20:48:19,CS105,Senior,Male,2,Yes,3.5-4.0,CSBA,AI,<2hrs,Sometimes,5,5,Sometimes (some assignments),Yes,Python,Artificial Intelligence/Machine Learning,Hardware/Embedded Systems
+11/7/2023 0:59:17,CS141,Senior,Male,3,Yes,3.5-4.0,MATH,Theoretical Computer Science,6-8hrs,Rarely,4,2,Rarely (few assignments),No,Python,Theoretical Computer Science,Hardware/Embedded Systems
+11/7/2023 1:05:28,CS105,Junior,Male,2,No,3.0-3.5,CS,software development,3-5hrs,Rarely,4,2,Never (no AI tools are used on my homework),No,C++,Game Development,Hardware/Embedded Systems
+11/7/2023 10:58:30,CS105,Senior,Male,2,No,3.0-3.5,DS,Machine Learning,3-5hrs,Rarely,4,4,Never (no AI tools are used on my homework),No,C++,Data Science,Game Development
+11/7/2023 14:17:06,"CS105, CS111, CS141",Senior,Male,3,Yes,3.0-3.5,CS,"Algorithms and Data structures, Machine learning.",<2hrs,Often,4,3,Sometimes (some assignments),Yes,Python,Artificial Intelligence/Machine Learning,Game Development
+11/7/2023 14:33:13,CS105,Senior,Female,4,No,3.5-4.0,CS,Artificial Intelligence ,6-8hrs,Sometimes,4,3,Rarely (few assignments),No,C++,Artificial Intelligence/Machine Learning,Hardware/Embedded Systems
+11/7/2023 14:52:18,CS105,Junior,Male,2,No,3.0-3.5,DS,,3-5hrs,Rarely,4,3,Sometimes (some assignments),Yes,C++,Data Science,Hardware/Embedded Systems
+11/7/2023 14:55:51,CS105,Junior,Male,2,No,2.5-3.0,DS,The salary ,3-5hrs,Sometimes,3,3,Rarely (few assignments),Yes,C++,Data Science,Data Science
+11/7/2023 15:32:48,"CS105, CS141",Junior,Male,2,No,3.0-3.5,CS,Micro controllers,9+hrs,More than most,5,5,Rarely (few assignments),No,C++,Hardware/Embedded Systems,Artificial Intelligence/Machine Learning
+11/7/2023 15:52:35,CS105,Senior,Male,1,No,2.5-3.0,DS,Data Organization,3-5hrs,Rarely,3,4,Often (most assignments),Yes,C++,Data Science,Artificial Intelligence/Machine Learning
+11/7/2023 16:18:05,CS105,Junior,Male,2,No,3.0-3.5,DS,Machine Learning,<2hrs,Never,4,2,Often (most assignments),Yes,C++,Artificial Intelligence/Machine Learning,Hardware/Embedded Systems
+11/7/2023 16:32:27,CS105,Senior,Male,3,No,3.0-3.5,CSBA,AI,3-5hrs,Rarely,3,2,Rarely (few assignments),No,Python,Data Science,Hardware/Embedded Systems
+11/7/2023 16:33:58,CS105,Junior,Male,2,No,3.0-3.5,CS,Algorithms ,9+hrs,Sometimes,4,3,Rarely (few assignments),No,C++,"AI, SE",Hardware/Embedded Systems
+11/7/2023 17:07:33,CS105,Junior,Male,2,No,3.0-3.5,DS,Data Analysis,3-5hrs,Sometimes,4,3,Rarely (few assignments),Yes,R,Data Science,Hardware/Embedded Systems
+11/7/2023 17:09:58,EE,Senior,Male,3,Yes,2.0-2.5,TELE SYS,Machine learning,3-5hrs,Rarely,3,3,Often (most assignments),Yes,Python,Game Development,Hardware/Embedded Systems
+11/7/2023 17:27:21,"CS105, CS111",Junior,Female,2,No,3.5-4.0,DS,,3-5hrs,Never,3,4,Rarely (few assignments),No,Python,Data Science,Hardware/Embedded Systems
+11/7/2023 17:39:01,"CS105, CS111",Junior,Female,3,Yes,3.0-3.5,DS,The coding aspect of Computer Science is fun for me,3-5hrs,Rarely,4,3,Sometimes (some assignments),Yes,Python,Data Science,Data Science
+11/7/2023 17:47:33,"CS105, CS141",Junior,Male,1,No,3.5-4.0,DS,,9+hrs,Sometimes,3,4,Never (no AI tools are used on my homework),No,C++,Game Development,Hardware/Embedded Systems
+11/7/2023 18:14:44,CS105,Senior,Female,3,No,2.5-3.0,CS,Software ,3-5hrs,Sometimes,3,3,Sometimes (some assignments),No,C++,Game Development,Hardware/Embedded Systems
+11/7/2023 18:47:24,CS141,Junior,Male,3,No,3.5-4.0,ENCS,Problem Solving,9+hrs,Often,5,3,Never (no AI tools are used on my homework),No,Lua ,Game Development,Hardware/Embedded Systems
+11/7/2023 18:50:01,CS141,Sophomore,Female,2,No,3.5-4.0,CS,idk,6-8hrs,Often,5,3,Sometimes (some assignments),No,js,Artificial Intelligence/Machine Learning,Hardware/Embedded Systems
+11/7/2023 19:14:21,CS141,Senior,Male,3,No,3.5-4.0,DS,Machine learning,6-8hrs,More than most,4,2,Never (no AI tools are used on my homework),No,R,Data Science,Data structures and algorithms/software
+11/7/2023 19:16:34,CS105,Senior,Male,2,No,3.0-3.5,CSBA,Algorithms,3-5hrs,Rarely,4,3,Sometimes (some assignments),No,C++,Artificial Intelligence/Machine Learning,Hardware/Embedded Systems
+11/7/2023 22:03:16,"CS105, CS111",Junior,Male,3,No,2.5-3.0,DS,Coding,3-5hrs,Rarely,3,3,Sometimes (some assignments),Yes,Python,Data Science,Hardware/Embedded Systems
+11/8/2023 0:26:22,CS105,Junior,Male,3,No,3.5-4.0,CS,machine learning,3-5hrs,Never,5,4,Never (no AI tools are used on my homework),No,C++,Artificial Intelligence/Machine Learning,Data Science
+11/8/2023 9:23:20,CS111,Junior,Female,2,No,3.0-3.5,CSBA,Operating Systems,3-5hrs,Never,4,4,Never (no AI tools are used on my homework),No,C++,Artificial Intelligence/Machine Learning,Game Development
+11/8/2023 14:12:25,CS105,Junior,Male,2,No,3.0-3.5,DS,Not sure,3-5hrs,Sometimes,4,4,Sometimes (some assignments),No,C++,Data Science,Artificial Intelligence/Machine Learning
